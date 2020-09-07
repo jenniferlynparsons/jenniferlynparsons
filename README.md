@@ -15,12 +15,13 @@
 
 - ⚡ Fun fact **I've played Carnegie Hall**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferlynparsons&layout=compact&hide=html" alt="jenniferlynparsons" /></p>
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenniferlynparsons&show_icons=true" alt="jenniferlynparsons" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jenniferlynparsons&show_icons=true&count_private=true" alt="jenniferlynparsons" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferlynparsons&layout=compact&hide=html" alt="jenniferlynparsons" /></p>
 
 <br />
-<p align="center">
+<p align="left">
 <a href="https://dev.to/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
 <a href="https://twitter.com/pixelpaperyarn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pixelpaperyarn" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
