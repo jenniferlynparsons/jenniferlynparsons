@@ -11,10 +11,6 @@
 
 - 💬 Ask me about **accessibility, frontend, learning resources, humane technology, and the indie web**
 
-- 📫 How to reach me **jenniferlynparsons@gmail.com**
-
-- ⚡ Fun fact **I've played Carnegie Hall**
-
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jenniferlynparsons&show_icons=true&count_private=true" alt="jenniferlynparsons" /></p>
 
