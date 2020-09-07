@@ -22,8 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferlynparsons&layout=compact&hide=html" alt="jenniferlynparsons" /></p>
 
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenniferlynparsons&show_icons=true" alt="jenniferlynparsons" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenniferlynparsons&show_icons=true" alt="jenniferlynparsons" /></p>
 
 <br />
 <p align="center">
