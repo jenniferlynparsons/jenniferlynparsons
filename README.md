@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
 <h3 align="center">coder. writer. tea snob. paladin.</h3>
 
-- 🔭 I’m currently working on [plastic](https://github.com/jenniferlynparsons/plastic)
+- 🔭 I’m currently working on [plastic](https://github.com/jenniferlynparsons/plastic) and [cuppa](https://github.com/jenniferlynparsons/cuppa)
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [https://aquantityofstuff.com/projects/](https://aquantityofstuff.com/projects/)
+- 👨‍💻 All of my projects are available at [my projects page](https://aquantityofstuff.com/projects/)
 
-- 📝 I regulary write articles on [https://aquantityofstuff.com/blog/](https://aquantityofstuff.com/blog/)
+- 📝 I regulary write articles on [my dev blog](https://aquantityofstuff.com/blog/)
 
-- 💬 Ask me about **accessibility, frontend, learning resources, humane technology, indie web**
+- 💬 Ask me about **accessibility, frontend, learning resources, humane technology, and the indie web**
 
 - 📫 How to reach me **jenniferlynparsons@gmail.com**
 
