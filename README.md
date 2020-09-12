@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [my dev blog](https://aquantityofstuff.com/blog/)
 
-- 💬 Ask me about **accessibility, frontend, learning resources, humane technology, and the indie web**
+- 💬 Ask me about **testing, accessibility, frontend, learning resources, humane technology, and the indie web**
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jenniferlynparsons&show_icons=true&count_private=true" alt="jenniferlynparsons" /></p>
