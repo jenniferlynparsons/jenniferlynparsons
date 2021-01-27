@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [plastic](https://github.com/jenniferlynparsons/plastic) and [cuppa](https://github.com/jenniferlynparsons/cuppa)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [my projects page](https://aquantityofstuff.com/projects/)
 
