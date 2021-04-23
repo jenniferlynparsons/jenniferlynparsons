@@ -1,5 +1,7 @@
 # This is how to best work with me
 
+Based on the [Work With Me guide](http://workwithme.guide/)
+
 ## Values
 - I support friendly, respectful work environments.
 - If I spent time figuring something out, I try to improve the documentation for the next person.
@@ -66,14 +68,22 @@ future self to obsess over._
 TODO
 
 ## Areas for Development
-_Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment._
+**Soft skills**
+- Building confidence in my technical abilities
+- Mentoring others
+- Maintaining focus
 
-TODO
+**Technical skills**
+- Svelte!
+- Security issues
+- All things frontend (forever ongoing)
+- All things backend (I want to be stronger here)
 
 ## Ask Me About
-_Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!_
-
-TODO
+- Accessibility
+- The web as a platform
+- Music
+- Writing
+- Fantasy books
+- Comic books
+- Tea
