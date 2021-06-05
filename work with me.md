@@ -25,7 +25,7 @@ _When do you prefer to work alone, versus in groups? How do your energy levels f
 
 I start and end my day with deep work. I have those hours blocked off on my schedule. Meetings are possible during this time, but please ask first.
 
-I have my most energy in the morning and have a little dip somewhere between 2:00 and 4:00. I usually have very little left in the tank at the end of the day. Similarly, Mondays are my most energetic and Friday I have little energy left.
+I have my most energy in the morning and have a little dip somewhere between 2:00 and 4:00. I usually have very little left in the tank at the end of the day. Similarly, Mondays are my most energetic and on Fridays I have little energy left.
 
 ## Communication Preferences
 I respond quite promptly on Slack and only check email about twice a day. I only respond outside of working hours if the matter is urgent or the information I have will unblock someone still working (East Coast vs West Coast, for example).
@@ -61,12 +61,6 @@ reactions._
 
 I am uncomfortable in situations where I don't "know the lay of the land" or what's expected of me. I'm a planner.
 
-## Career Goals & Future Interests
-_What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over._
-
-TODO
-
 ## Areas for Development
 **Soft skills**
 - Building confidence in my technical abilities
@@ -76,7 +70,6 @@ TODO
 **Technical skills**
 - Svelte!
 - Security issues
-- All things frontend (forever ongoing)
 - All things backend (I want to be stronger here)
 
 ## Ask Me About
