@@ -10,6 +10,9 @@
 - 📝 I regulary write articles on [my dev blog](https://aquantityofstuff.com/blog/)
 
 - 💬 Ask me about **testing, accessibility, frontend, learning resources, humane technology, and the indie web**
+<br />
+
+Are you a colleague? I wrote [a short guide to help you work with me](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/work%20with%20me.md) more effectively!
 
 <br />
 <p align="left">
