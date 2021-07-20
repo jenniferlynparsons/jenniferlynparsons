@@ -14,12 +14,12 @@ I'm generally friendly, willing to help however I can, and enjoy collaborating.
 I chose remote work because I do best with a self-controlled environment. I'm on the autism spectrum so I can come across as "strange" sometimes. I also have auditory processing issues, so I may ask for a repetition or recontextualization of information.
 
 ## Receiving Feedback & Recognition
-I prefer to receive negative feedback in writing first, with live discussion afterwards, if needed. I'm happy to recieve positive feedback or recognition in public.
+I prefer to receive negative feedback in writing first, with live discussion afterwards, if needed. I'm happy to receive positive feedback or recognition in public.
 
 ## Work Patterns
 _What hours do you usually work?_
 
-I'm usually online around 8:30 am EST and clock off between 6:00-6:30 EST.
+I'm usually online around 9:00 am EST and clock off between 6:00-6:30 EST.
 
 _When do you prefer to work alone, versus in groups? How do your energy levels fluctuate throughout the day?_
 
@@ -79,4 +79,5 @@ I am uncomfortable in situations where I don't "know the lay of the land" or wha
 - Writing
 - Fantasy books
 - Comic books
+- Baseball
 - Tea
