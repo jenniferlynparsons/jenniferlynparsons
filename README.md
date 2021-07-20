@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">coder. writer. tea snob. paladin.</h3>
+<h3 align="center">coder. writer. comics geek. baseball devotee. music nerd. tea snob. paladin.</h3>
 
 - 🔭 I’m currently working on [plastic](https://github.com/jenniferlynparsons/plastic) and [cuppa](https://github.com/jenniferlynparsons/cuppa)
 
