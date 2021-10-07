@@ -14,6 +14,8 @@
 
 Are you a colleague? I wrote [a short guide to help you work with me](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/work%20with%20me.md) more effectively!
 
+I also have a [mentoring profile](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/mentoring-profile.md) if you'd like to be mentored by me.
+
 <br />
 <p align="left">
 <a href="https://dev.to/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
