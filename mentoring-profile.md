@@ -4,7 +4,7 @@ I have mentored junior engineers and also been mentored by others, both formally
 
 In particular, I've worked with the WeAllJS mentoring framework ([mentor](https://wealljs.org/rfc-mentorship-mentor) and [mentees](https://wealljs.org/rfc-mentorship-mentee)) and found it very successful in helping me achieve my goals.
 
-My mentoring style is laid back, encouraging, and realistic. I will tell you when you're tackling something really challenging and be open about my own struggles learning things but also within my career development. 
+My mentoring style is laid back, encouraging, and realistic. I will tell you when you're tackling something really challenging and be open about my own struggles learning things within my own career development. 
 
 If we work together, we'll also be learning together because I always learn something new from everyone I work with. It's always great to review those basics and I love to get questions that stump me. We can figure it out together!
 
