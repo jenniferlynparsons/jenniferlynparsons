@@ -25,12 +25,12 @@ _When do you prefer to work alone, versus in groups? How do your energy levels f
 
 I start and end my day with deep work. I have those hours blocked off on my schedule. Meetings are possible during this time, but please ask first.
 
-I have my most energy in the morning and have a little dip somewhere between 2:00 and 4:00. I usually have very little left in the tank at the end of the day. Similarly, Mondays are my most energetic and on Fridays I have little energy left.
+I have my most energy in the morning. I usually have very little left in the tank at the end of the day. Similarly, Mondays are my most energetic and on Fridays I have little energy left.
 
 ## Communication Preferences
-I respond quite promptly on Slack and only check email about twice a day. I only respond outside of working hours if the matter is urgent or the information I have will unblock someone still working (East Coast vs West Coast, for example).
+I respond promptly on Slack and only check email about twice a day. I only respond outside of working hours if the matter is urgent or the information I have will unblock someone still working (East Coast vs West Coast, for example).
 
-If you're looking for whether it's okay to interupt me, check my calendar! If I'm in a meeting, obviously I can't respond. If it's during deep work hours, I can be contacted but may be a little slower to respond.
+If you're looking for whether it's okay to interrupt me, check my calendar! If I'm in a meeting, obviously I can't respond. If it's during deep work hours, I can be contacted but may be a little slower to respond.
 
 ## How To Know I’ve Gone To The Dark Side
 
@@ -49,7 +49,7 @@ Ask me if I'm having an off day and if I'd like to pair to resolve whatever it i
 ## Me Being Me
 _Do you have any habits that can be easily misinterpreted?_
 
-I sometimes fidget or stim and that has nothing to do with my level of boredom. The same with getting sleepy in the middle of the afternoon.
+I sometimes fidget or stim and that has nothing to do with my level of boredom.
 
 I also have a habit of interrupting people in conversation or come across as waving my hand saying "Me, too! I know this thing!". I'm not trying to be rude, sometimes I just miss social cues and my enthusiasm for connecting with people on the same wavelength gets the better of me.
 
