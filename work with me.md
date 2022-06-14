@@ -19,7 +19,7 @@ I prefer to receive negative feedback in writing first, with live discussion aft
 ## Work Patterns
 _What hours do you usually work?_
 
-I'm usually online around 9:00 am EST and clock off between 6:00-6:30 EST.
+I'm usually online around 9:30 am EST and clock off between 6:00-6:30 EST.
 
 _When do you prefer to work alone, versus in groups? How do your energy levels fluctuate throughout the day?_
 
