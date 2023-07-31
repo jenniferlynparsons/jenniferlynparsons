@@ -19,7 +19,7 @@ I prefer to receive negative feedback in writing first, with live discussion aft
 ## Work Patterns
 _What hours do you usually work?_
 
-I'm usually online around 9:30 am EST and clock off between 6:00-6:30 EST.
+I'm usually online around 8:30 am EST and clock off between 6:00-6:30 EST.
 
 _When do you prefer to work alone, versus in groups? How do your energy levels fluctuate throughout the day?_
 
@@ -37,7 +37,7 @@ If you're looking for whether it's okay to interrupt me, check my calendar! If I
 ### Warning Signs
 _When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?_
 
-I will get very quiet or may start responding defensively. I will also fidget a lot.
+I will get very quiet. I will also fidget a lot.
 
 _What about when you're just not having an "on" or "good" day?_
 
@@ -49,7 +49,7 @@ Ask me if I'm having an off day and if I'd like to pair to resolve whatever it i
 ## Me Being Me
 _Do you have any habits that can be easily misinterpreted?_
 
-I sometimes fidget or stim and that has nothing to do with my level of boredom.
+I sometimes fidget or stim and that has nothing to do with my level of engagement.
 
 I also have a habit of interrupting people in conversation or come across as waving my hand saying "Me, too! I know this thing!". I'm not trying to be rude, sometimes I just miss social cues and my enthusiasm for connecting with people on the same wavelength gets the better of me.
 
