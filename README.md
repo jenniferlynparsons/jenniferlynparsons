@@ -18,7 +18,5 @@ I also have a [mentoring profile](https://github.com/jenniferlynparsons/jennifer
 
 <br />
 <p align="left">
-<a href="https://dev.to/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
-<a href="https://twitter.com/pixelpaperyarn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pixelpaperyarn" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
 </p>
