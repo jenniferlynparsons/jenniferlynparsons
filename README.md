@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python** and **Astro**
 
-- 💬 Ask me about **testing, accessibility, frontend, learning resources, humane technology,** and the **indie web**
+- 💬 Ask me about **people management, automated testing, accessibility, frontend, humane technology,** and the **indie web**
 <br />
 
 Are you a colleague? I wrote [a short guide to help you work with me](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/work%20with%20me.md) more effectively!
