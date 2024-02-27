@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
 <h3 align="center">coder. writer. comics geek. baseball devotee. music nerd. tea snob. paladin.</h3>
 
-- 🔭 I’m currently working on [plastic](https://github.com/jenniferlynparsons/plastic) and [cuppa](https://github.com/jenniferlynparsons/cuppa)
+- 🔭 I’m currently working on [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly) and [selfcare.tech](https://github.com/jenniferlynparsons/selfcaretech) 
 
-- 🌱 I’m currently learning **Go** and **Svelte**
-
-- 👨‍💻 All of my projects are available at [my projects page](https://aquantityofstuff.com/projects/)
-
-- 📝 I regulary write articles on [my dev blog](https://aquantityofstuff.com/blog/)
+- 🌱 I’m currently learning **Python** and **Astro**
 
 - 💬 Ask me about **testing, accessibility, frontend, learning resources, humane technology,** and the **indie web**
 <br />
