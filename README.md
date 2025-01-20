@@ -23,9 +23,9 @@
 - Advocating for accessible & humane technology
 - Contributing to indie web initiatives
 
-📫 More about me:
-- Read my [README](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/work%20with%20me.md) for collaboration insights
-- I also have a mentoring [README](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/mentoring-profile.md)
-- Check out my website at [aquantityofstuff.com](https://aquantityofstuff.com/)
+📫 Let's connect:
+- Read my Manager [README](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/work%20with%20me.md) to learn about my leadership style
+- Interested in mentorship? Check out my Mentoring [README](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/mentoring-profile.md)
+- Learn more about me at [aquantityofstuff.com](https://aquantityofstuff.com/)
 
 <a href="https://linkedin.com/in/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
