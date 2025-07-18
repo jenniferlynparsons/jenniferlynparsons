@@ -19,7 +19,7 @@ I prefer to receive negative feedback in writing first, with live discussion aft
 ## Work Patterns
 _What hours do you usually work?_
 
-I'm usually online around 8:30 am EST and clock off between 6:00-6:30 EST.
+I'm usually online around 9:00 am EST and clock off between 5:00-5:30 EST.
 
 _When do you prefer to work alone, versus in groups? How do your energy levels fluctuate throughout the day?_
 
@@ -28,7 +28,7 @@ I start and end my day with deep work. I have those hours blocked off on my sche
 I have my most energy in the morning. I usually have very little left in the tank at the end of the day. Similarly, Mondays are my most energetic and on Fridays I have little energy left.
 
 ## Communication Preferences
-I respond promptly on Slack and only check email about twice a day. I only respond outside of working hours if the matter is urgent or the information I have will unblock someone still working (East Coast vs West Coast, for example).
+I respond promptly to communications. I only respond outside of working hours if the matter is urgent or the information I have will unblock someone still working (East Coast vs West Coast, for example).
 
 If you're looking for whether it's okay to interrupt me, check my calendar! If I'm in a meeting, obviously I can't respond. If it's during deep work hours, I can be contacted but may be a little slower to respond.
 
@@ -61,18 +61,8 @@ reactions._
 
 I am uncomfortable in situations where I don't "know the lay of the land" or what's expected of me. I'm a planner.
 
-## Areas for Development
-**Soft skills**
-- Building confidence in my technical abilities
-- Mentoring others
-- Maintaining focus
-
-**Technical skills**
-- Svelte!
-- Security issues
-- All things backend (I want to be stronger here)
-
 ## Ask Me About
+- Process development
 - Accessibility
 - The web as a platform
 - Music
