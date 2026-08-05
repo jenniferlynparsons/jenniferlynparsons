@@ -5,7 +5,11 @@
 🔭 I'm currently:
 - Actively seeking Engineering Manager roles at established, remote-friendly companies
 - Publishing [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly) (award-winning publication)
-- Building [selfcare.tech](https://github.com/jenniferlynparsons/selfcaretech) 
+- Building [selfcare.tech](https://github.com/jenniferlynparsons/selfcaretech)
+
+🗳️ Civic tech
+
+Most of my recent work has been democracy infrastructure: IRS Direct File at Truss (140,000 filers in 2024, 32 million in 2025), campaign finance transparency at MapLight, and voting coordination at Sway. I didn't set out to specialize in it. Turns out I keep choosing the same kind of problem.
 
 💡 Specializing in:
 - Frontend architecture & accessibility
@@ -13,9 +17,9 @@
 - AI-enhanced workflows & tooling
 
 🌱 Currently exploring:
-- Building Python utilities with AI assistance for workflow automation
+- Running a production design system migration with Claude Code as the implementation layer
 - Modern web architecture with Astro
-- AI integration strategies for engineering teams
+- How to help teams adopt AI well. Where AI-assisted work genuinely speeds things up, and where it quietly makes things worse.
 
 📫 Let's Connect:
 - Read my Manager [README](https://gist.github.com/jenniferlynparsons/bb5b05ddac71e5659dc2bdd993312af5) to learn about my leadership style
