@@ -18,8 +18,8 @@
 - AI integration strategies for engineering teams
 
 📫 Let's Connect:
-- Read my Manager [README](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/work%20with%20me.md) to learn about my leadership style
-- Interested in mentorship? Check out my Mentoring [README](https://github.com/jenniferlynparsons/jenniferlynparsons/blob/master/mentoring-profile.md)
+- Read my Manager [README](https://gist.github.com/jenniferlynparsons/bb5b05ddac71e5659dc2bdd993312af5) to learn about my leadership style
+- Interested in mentorship or coaching? I offer [individual coaching services](https://coachingwithjp.com/)
 - Learn more about me at [aquantityofstuff.com](https://aquantityofstuff.com/)
 
 <a href="https://linkedin.com/in/jenniferlynparsons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jenniferlynparsons" height="30" width="30" /></a>
