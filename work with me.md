@@ -11,7 +11,7 @@ Based on the [Work With Me guide](http://workwithme.guide/)
 ## Personality
 I'm generally friendly, willing to help however I can, and enjoy collaborating.
 
-I chose remote work because I do best with a self-controlled environment. I'm on the autism spectrum so I can come across as "strange" sometimes. I also have auditory processing issues, so I may ask for a repetition or recontextualization of information.
+I chose remote work because I do best with a self-controlled environment. I'm on the autism spectrum with a side order of ADHD with all that comes with those disorders. Ask me if you have questions about my experience. I also have auditory processing issues, so I may ask for a repetition or re-contextualization of information.
 
 ## Receiving Feedback & Recognition
 I prefer to receive negative feedback in writing first, with live discussion afterwards, if needed. I'm happy to receive positive feedback or recognition in public.
@@ -19,13 +19,13 @@ I prefer to receive negative feedback in writing first, with live discussion aft
 ## Work Patterns
 _What hours do you usually work?_
 
-I'm in EST. I'm usually online around 10:00 am EST and clock off between 6:00-6:30 EST. 
+I'm in EST. I'm usually online around 9:30 am EST and clock off between 5:30-6:00 EST. 
 
-I can be flexible about an hour in either direction. Sometimes I'll be an early bird and get a few hours in between 8:00-10:00 and take a longer break or clock off earlier, depending on how things are going.
+I can be flexible about an hour in either direction. Sometimes I'll be an early bird and get a few hours in early and take a longer break or clock off earlier, depending on how things are going.
 
 _When do you prefer to work alone, versus in groups? How do your energy levels fluctuate throughout the day?_
 
-I start and end my day with deep work. I have those hours blocked off on my schedule. Meetings are possible during this time, but please ask first.
+I start and end my day with deep work when possible. Meetings are possible during this time, but please ask first.
 
 I have my most energy in the morning. I usually have very little left in the tank at the end of the day. Similarly, Mondays are my most energetic and on Fridays I have little energy left. 
 
@@ -41,11 +41,11 @@ If you're looking for whether it's okay to interrupt me, check my calendar! If I
 ### Warning Signs
 _When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?_
 
-I will get very quiet. I will also fidget a lot.
+I will get very quiet until I figure out what to say to surface that discomfort, which may not be during the conversation.
 
 _What about when you're just not having an "on" or "good" day?_
 
-I can get distracted, fidgeting will be worse, and my work may be sloppy with silly mistakes. Please don't be afraid to correct me, I'd be grateful to know so I can fix it.
+I can get distracted, fidgeting will be worse, and my work may be sloppy with silly mistakes. I'm usually pretty self-aware when I'm a bit off. Please don't be afraid to correct me, I'd be grateful to know so I can fix it.
 
 ### How to help
 Ask me if I'm having an off day and if I'd like to pair to resolve whatever it is I'm working on. 
@@ -53,7 +53,7 @@ Ask me if I'm having an off day and if I'd like to pair to resolve whatever it i
 ## Me Being Me
 _Do you have any habits that can be easily misinterpreted?_
 
-I sometimes fidget or stim and that has nothing to do with my level of engagement.
+I sometimes fidget or stim which may look like boredom but has nothing to do with my level of engagement.
 
 I also have a habit of interrupting people in conversation or come across as waving my hand saying "Me, too! I know this thing!". I'm not trying to be rude, sometimes I just miss social cues and my enthusiasm for connecting with people on the same wavelength gets the better of me.
 
