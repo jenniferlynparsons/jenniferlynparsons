@@ -22,6 +22,7 @@ Most of my recent work has been democracy infrastructure: IRS Direct File at Tru
 - How to help teams adopt AI well. Where AI-assisted work genuinely speeds things up, and where it quietly makes things worse.
 
 📫 Let's Connect:
+- My personal [README](https://gist.github.com/jenniferlynparsons/071a007edcc628796d04a66ed4926d18) documents how to best work with me
 - Read my Manager [README](https://gist.github.com/jenniferlynparsons/bb5b05ddac71e5659dc2bdd993312af5) to learn about my leadership style
 - Interested in mentorship or coaching? I offer [individual coaching services](https://coachingwithjp.com/)
 - Learn more about me at [aquantityofstuff.com](https://aquantityofstuff.com/)
